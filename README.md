@@ -6,8 +6,6 @@
 🚧 Projeto em desenvolvimento 🚧
 
 
-🚧 Projeto em desenvolvimento 🚧
-
 ## 📖 Sobre
 Projeto criado para praticar HTML e CSS a partir das aulas do curso da Alura.
 
