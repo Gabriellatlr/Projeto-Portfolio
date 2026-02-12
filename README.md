@@ -3,9 +3,6 @@
 🌐 **Projeto publicado no GitHub Pages:**  
 👉 [Clique aqui para acessar o site](https://gabriellatlr.github.io/Projeto-Portfolio/)
 
-🚧 Projeto em desenvolvimento 🚧
-
-
 ## 📖 Sobre
 Projeto criado para praticar HTML e CSS a partir das aulas do curso da Alura.
 
